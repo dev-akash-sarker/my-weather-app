@@ -1,6 +1,10 @@
-# Getting Started with Create React App
-
 # This is a Starter App as an Boiler Plate
+
+This is a starting point of creating an new app and when something new comes and it will be merge if there is no errors here.
+Happy Coding.
+
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
